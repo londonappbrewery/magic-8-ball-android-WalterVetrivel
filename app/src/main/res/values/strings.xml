@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="title_string">Yes/No Questions</string>
+    <string name="button_string">Ask Question</string>
+    <string name="question1">Does pineapple belong on a pizza?</string>
+    <string name="question2">Is the font too big?</string>
+    <string name="question3">Does this app work?</string>
+    <string name="question4">Do you know my name?</string>
+    <string name="question5">Can you answer my questions?</string>
 </resources>
